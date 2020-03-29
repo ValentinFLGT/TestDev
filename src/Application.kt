@@ -91,10 +91,13 @@ fun Application.module(testing: Boolean = false) {
                 body {
                     h1 { +"Welcome to the Interview Test Dev API" }
                     p { +"First of all run all the request inside the PostRequest.http" }
-                    p { +"Great ! We now have data in our fake database. Now, please run the request inside GetList.http" }
+                    p { +"Great ! We now have data in our fake database. Now, please run the request inside GetList.http, you can see the result by adding /person in your browser" }
                     p { +"Pretty cool yeah, now we have a list of all persons stored in our fake database." }
-                    p { +"Oh wait, there's an error in the last person's data we added, please run DeleteRequest to get rid of it." }
-                    p { +"Fine, we don't like errors. Well, now you've seen pretty much everything, feel free to modify the .http files to play with your new API" }
+                    p { +"If you want to delete someone's data by his id, please run DeleteRequest to get rid of it." }
+                    p { +"If you want to clear the fake database you can run the request inside DeleteAll.http" }
+                    p { +"Now you've seen pretty much everything, feel free to modify the .http files to play with your new API" }
+                    p { +"You will find further information inside the LIBRARIES.MD if you want" }
+                    p { +"Thank you !" }
                 }
             }
         }
