@@ -1,0 +1,3 @@
+### Send DELETE request will delete all data
+DELETE http://127.0.0.1:8080/person
+Content-Type: application/json
