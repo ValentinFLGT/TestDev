@@ -21,7 +21,28 @@ With that being said, i didn't give up. I read all the documentations i found on
 
 Thanks to your test i learned a lot about Kotlin's syntax, JavaScript's concept, REST API and object-orient programming. When we started the Javascript's module wednesday, i successfully finished the three days work in one day ! Then i could focus on finishing this exercise ^^
 
-I know it's really not perfect but i put my hearth and my soul to get the job done ! Whatever the result i wanted to thank you for your attraction to me ! I'm really proud to go that far no matter what is the outcome. Once again, thank you ! :D
+I know it's not perfect but i put my hearth and my soul to get the job done ! Whatever the result i wanted to thank you for your attraction to me ! I'm really proud to go that far no matter what is the outcome. Once again, thank you ! :D
+
+## Resources
+
+* All links provided in the repo
+* https://medium.com/@billwixted/building-a-rest-api-with-ktor-4c322d31eb31
+* https://medium.com/innovation-development/une-api-rest-kotlin-d%C3%A9velopp%C3%A9e-en-5-minutes-63a189b80809
+* https://docs.gradle.org/current/userguide/what_is_gradle.html
+* https://medium.com/@andrewMacmurray/a-beginners-guide-to-gradle-26212ddcafa8
+* https://maven.apache.org/what-is-maven.html
+* https://kotlinlang.org/docs/reference/packages.html
+* https://kotlinlang.org/docs/reference/coroutines/basics.html
+* https://kotlinlang.org/docs/reference/platform-specific-declarations.html
+* https://www.youtube.com/watch?v=zHQ7oBYSHrY&t=41s
+* https://www.youtube.com/watch?v=jT2gHPQ4Z1Q
+* https://www.youtube.com/watch?v=5sYhSrDTCls&t=14s
+* https://www.youtube.com/watch?v=H_oGi8uuDpA
+* https://github.com/bwixted/ktorserver
+* https://github.com/tensor-programming/kotlin_api
+
+
+
  
  
 
